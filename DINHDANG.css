@@ -19,7 +19,7 @@
 
         /* Header */
         header {
-            background: url('cổng trường.jpg'); 
+            background: url('congtruong.jpg'); 
             background-size: cover; background-position: center;
             height: 80vh; display: flex; align-items: flex-end; justify-content: center;
             color: white; text-align: center;
@@ -130,4 +130,5 @@
 
             .muc-luc-container a:hover {
             color: #d32f2f;            /* Đổi sang màu đỏ khi di chuột */
+
             }
